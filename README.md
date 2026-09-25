@@ -1,2 +1,2 @@
-# Pemerograman-Dasar
+# Pemrograman-Dasar
 Repo untuk perkuliahan
